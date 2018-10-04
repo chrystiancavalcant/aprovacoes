@@ -1,0 +1,11 @@
+
+
+
+.storybox.styled {
+        background: linear-gradient( rgba(34,34,34,0.78), rgba(34,34,34,0.78)), url(assets/img/posts/9.jpg) no-repeat;
+        background-size: cover;
+        background-position: center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover; 
+}
